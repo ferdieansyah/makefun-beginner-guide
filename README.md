@@ -72,6 +72,13 @@ To ensure competitive integrity:
 
 ---
 
+## Contributors & Acknowledgements
+
+- **Arie Ferdieansyah** ([@ferdieansyah](https://github.com/ferdieansyah)) - Author & Maintainer.
+- **Antigravity Agent** (Google DeepMind Gemini 3.8 Flash) - Autonomous AI coding partner assisting with content synthesis, verification, and platform bundle orchestration.
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
